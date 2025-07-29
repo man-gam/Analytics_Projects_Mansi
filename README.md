@@ -1,6 +1,3 @@
-# Analytics_Projects_Mansi
-Power BI Dashboard
-
 # 🗃️ SQL Database Project
 
 This project demonstrates the use of SQL for relational database design, data manipulation, and analytical querying. It reflects core skills in writing structured queries and understanding normalized schema design.
